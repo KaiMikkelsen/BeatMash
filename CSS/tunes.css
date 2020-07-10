@@ -1,0 +1,41 @@
+
+
+body{
+
+    background-color: #74b5c9; 
+    font-family: sans-serif;
+    
+}
+.MainTitle{
+    position:absolute;
+
+    left:3%;
+    top:5%;
+    font-size: 300%;
+
+  
+}
+
+
+.UploadButton
+{
+    top:8%;
+    position:absolute;
+    right:40px;
+    font-size:150%;
+}
+
+.LeadboardButton
+{
+    top:8%;
+    position:absolute;
+    right:150px;
+
+    font-size:150%;
+
+}
+
+.UpperNavBar
+{
+  
+}
